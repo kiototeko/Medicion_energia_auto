@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">bluetooth_motor</string>
+    <string name="no_blue">El dispositivo no es compatible con Bluetooth</string>
+    <string name="no_enable">El dispositivo no tiene habilitado Bluetooth</string>
+    <string name="escanear">Escanear</string>
+    <string name="conectar">Conectarse</string>
+    <string name="funcionalidad">Funcionalidad no activada</string>
+    <string name="no_conecta">No se pudo conectar</string>
+    <string name="medida">Medida</string>
+    <string name="rangoE">Energía (KJ)</string>
+    <string name="rangoV">Voltaje (V)</string>
+    <string name="rangoC">Intensidad de corriente (A)</string>
+    <string name="tiempo">Tiempo (s)</string>
+    <string name="titulo">Energía consumida por motor</string>
+    <string name="reset">Reset</string>
+    <string name="dispos_enc">Dispositivos encontrados:</string>
+    <string name="main_title">Medición de energía</string>
+    <string name="nombre_dir">Mediciones</string>
+    <string name="nombre_archivo">medicion</string>
+</resources>
